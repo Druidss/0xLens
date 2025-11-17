@@ -32,9 +32,9 @@
     --glow-primary: 0 0 20px rgba(0, 240, 255, 0.5);
   }
 
-  * {
+  /* * {
     @apply border-border;
-  }
+  } */
 
   body {
     @apply bg-[var(--bg-primary)] text-[var(--text-primary)];
